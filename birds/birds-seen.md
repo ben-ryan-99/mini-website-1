@@ -1,0 +1,72 @@
+---
+layout: page
+title: "birds i've seen"
+permalink: /birds/birds-seen
+---
+
+# This is a list of birds I have seen
+## In chronological order since December 24, 2024
+- American Crow
+- Northern Cardinal
+- Northern Mockingbird
+- Ruby-crowned Kinglet
+- Fish Crow
+- Boat-tailed Grackle
+- Turkey Vulture
+- Brown Pelican
+- American White Pelican
+- Great Blue Heron
+- Great Egret
+- Roseate Spoonbill
+- White Ibis
+- Double-crested Cormorant
+- Anhinga (this one's funky)
+- Laughing Gull
+- Snowy Egret
+- Mallard
+- Canada Goose
+- Black-bellied Whistling-Duck
+- Common Raven
+- Black-billed Magpie
+- Canada Jay
+- Bald Eagle
+- American Robin
+- Carolina Wren
+- Blue Jay
+- Red-bellied Woodpecker
+- Northern Shoveler
+- Brant
+- Common Grackle
+- Downy Woodpecker
+- Mourning Dove
+- Hooded Merganser
+- Golden-crowned Kinglet
+- European Starling
+- Tufted Titmouse
+- Black-capped Chickadee
+- Eastern Phoebe
+- Yellow-bellied Sapsucker
+- American Coot
+- White-throated Sparrow
+- American Kestrel
+- Black-throated Green Warbler
+- Black-throated Blue Warbler
+- Black-and-white Warbler
+- Ovenbird
+- Gray Catbird
+- American Redstart
+- Hooded Warbler
+- Wood Thrush
+- Common Loon
+- House Sparrow
+- Northern Flicker
+- Song Sparrow
+- Dark-eyed Junco
+- Steller's Jay
+- Belted Kingfisher
+- Chestnut-backed Chickadee
+- Bewick's Wren
+- Red-breasted Nuthatch
+- Spotted Towhee
+- California Scrub-Jay
+- Anna's Hummingbird
